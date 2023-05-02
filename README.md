@@ -1,1 +1,1 @@
-# laravel10-vue3
+Bootstrap 5.2.2
