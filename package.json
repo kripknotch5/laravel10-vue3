@@ -16,6 +16,10 @@
         "postcss-import": "^14.0.1",
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.62.1",
-        "sass-loader": "^12.6.0"
+        "sass-loader": "^12.6.0",
+        "vue-loader": "^17.0.1"
+    },
+    "dependencies": {
+        "vue": "^3.2.36"
     }
 }
